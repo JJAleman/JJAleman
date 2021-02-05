@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Juan Aleman 👋 💻 </h1>
 
+<h3 align="center">  Tech Enthusiast | Full Stack Web Developer </h3> <br>
+
+<p align="center"> 
+<a href="https://www.linkedin.com/in/jjaleman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+</p>
 <!--
 **JJAleman/JJAleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
